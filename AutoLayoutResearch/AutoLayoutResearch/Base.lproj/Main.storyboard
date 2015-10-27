@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<document type="com.apple.InterfaceBuilder3.CocoaTouch.Storyboard.XIB" version="3.0" toolsVersion="8191" systemVersion="14F27" targetRuntime="iOS.CocoaTouch" propertyAccessControl="none" useAutolayout="YES" useTraitCollections="YES" initialViewController="OhQ-w3-cSR">
+    <dependencies>
+        <deployment identifier="iOS"/>
+        <plugIn identifier="com.apple.InterfaceBuilder.IBCocoaTouchPlugin" version="8154"/>
+        <capability name="Aspect ratio constraints" minToolsVersion="5.1"/>
+    </dependencies>
+    <scenes>
+        <!--View Controller-->
+        <scene sceneID="nL9-Z8-pKU">
+            <objects>
+                <viewController id="OhQ-w3-cSR" customClass="ViewController" sceneMemberID="viewController">
+                    <layoutGuides>
+                        <viewControllerLayoutGuide type="top" id="yuI-ob-MOE"/>
+                        <viewControllerLayoutGuide type="bottom" id="uMT-ic-VTd"/>
+                    </layoutGuides>
+                    <view key="view" contentMode="scaleToFill" id="e2w-z8-nHm">
+                        <rect key="frame" x="0.0" y="0.0" width="320" height="568"/>
+                        <autoresizingMask key="autoresizingMask" widthSizable="YES" heightSizable="YES"/>
+                        <subviews>
+                            <imageView userInteractionEnabled="NO" contentMode="scaleAspectFit" horizontalHuggingPriority="251" verticalHuggingPriority="251" image="Logo3.png" translatesAutoresizingMaskIntoConstraints="NO" id="fVh-Jx-mBb">
+                                <rect key="frame" x="0.0" y="174" width="320" height="220"/>
+                                <constraints>
+                                    <constraint firstAttribute="width" secondItem="fVh-Jx-mBb" secondAttribute="height" multiplier="16:11" id="ZHj-QT-spW"/>
+                                </constraints>
+                            </imageView>
+                            <button opaque="NO" contentMode="scaleToFill" contentHorizontalAlignment="center" contentVerticalAlignment="center" buttonType="roundedRect" lineBreakMode="middleTruncation" translatesAutoresizingMaskIntoConstraints="NO" id="DR6-B8-g6E">
+                                <rect key="frame" x="20" y="424" width="280" height="30"/>
+                                <color key="backgroundColor" red="0.97647058819999999" green="0.32549019610000002" blue="0.086274509799999996" alpha="1" colorSpace="calibratedRGB"/>
+                                <constraints>
+                                    <constraint firstAttribute="width" secondItem="DR6-B8-g6E" secondAttribute="height" multiplier="28:3" id="EqO-SY-j8M"/>
+                                </constraints>
+                                <fontDescription key="fontDescription" name="Avenir-Heavy" family="Avenir" pointSize="16"/>
+                                <state key="normal" title="Staff List">
+                                    <color key="titleColor" red="0.94509803920000002" green="0.94509803920000002" blue="0.94509803920000002" alpha="1" colorSpace="calibratedRGB"/>
+                                </state>
+                            </button>
+                            <button opaque="NO" contentMode="scaleToFill" contentHorizontalAlignment="center" contentVerticalAlignment="center" buttonType="roundedRect" lineBreakMode="middleTruncation" translatesAutoresizingMaskIntoConstraints="NO" id="ueD-lI-GLM">
+                                <rect key="frame" x="20" y="474" width="280" height="30"/>
+                                <color key="backgroundColor" red="0.97647058819999999" green="0.32549019610000002" blue="0.086274509799999996" alpha="1" colorSpace="calibratedRGB"/>
+                                <constraints>
+                                    <constraint firstAttribute="width" secondItem="ueD-lI-GLM" secondAttribute="height" multiplier="28:3" id="BR4-e0-cLb"/>
+                                </constraints>
+                                <fontDescription key="fontDescription" name="Avenir-Heavy" family="Avenir" pointSize="16"/>
+                                <state key="normal" title="About Us">
+                                    <color key="titleColor" red="0.94509803920000002" green="0.94509803920000002" blue="0.94509803920000002" alpha="1" colorSpace="calibratedRGB"/>
+                                </state>
+                            </button>
+                        </subviews>
+                        <color key="backgroundColor" white="1" alpha="1" colorSpace="custom" customColorSpace="calibratedWhite"/>
+                        <constraints>
+                            <constraint firstItem="ueD-lI-GLM" firstAttribute="top" secondItem="DR6-B8-g6E" secondAttribute="bottom" constant="20" id="BrF-EK-f0Q"/>
+                            <constraint firstItem="DR6-B8-g6E" firstAttribute="leading" secondItem="e2w-z8-nHm" secondAttribute="leading" constant="20" id="CYC-6c-CBJ"/>
+                            <constraint firstAttribute="trailing" secondItem="DR6-B8-g6E" secondAttribute="trailing" constant="20" id="K7m-Cm-XOE"/>
+                            <constraint firstItem="fVh-Jx-mBb" firstAttribute="leading" secondItem="e2w-z8-nHm" secondAttribute="leading" id="Lo6-ul-rSM"/>
+                            <constraint firstItem="fVh-Jx-mBb" firstAttribute="centerX" secondItem="e2w-z8-nHm" secondAttribute="centerX" id="Ua1-Ly-MQ6"/>
+                            <constraint firstItem="fVh-Jx-mBb" firstAttribute="centerY" secondItem="e2w-z8-nHm" secondAttribute="centerY" id="ZE8-Oy-imX"/>
+                            <constraint firstAttribute="trailing" secondItem="ueD-lI-GLM" secondAttribute="trailing" constant="20" id="afs-HD-oxi"/>
+                            <constraint firstItem="DR6-B8-g6E" firstAttribute="top" secondItem="fVh-Jx-mBb" secondAttribute="bottom" constant="30" id="cRt-Rv-jfb"/>
+                            <constraint firstAttribute="trailing" secondItem="fVh-Jx-mBb" secondAttribute="trailing" id="dMR-2O-xZl"/>
+                            <constraint firstItem="ueD-lI-GLM" firstAttribute="leading" secondItem="e2w-z8-nHm" secondAttribute="leading" constant="20" id="wyl-Bd-fM1"/>
+                        </constraints>
+                    </view>
+                    <simulatedScreenMetrics key="simulatedDestinationMetrics" type="retina4"/>
+                </viewController>
+                <placeholder placeholderIdentifier="IBFirstResponder" id="7GS-gy-RUm" sceneMemberID="firstResponder"/>
+            </objects>
+            <point key="canvasLocation" x="-55" y="379"/>
+        </scene>
+    </scenes>
+    <resources>
+        <image name="Logo3.png" width="1066" height="674"/>
+    </resources>
+</document>
