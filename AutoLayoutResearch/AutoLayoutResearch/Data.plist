@@ -1,0 +1,105 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<array>
+	<dict>
+		<key>image_info</key>
+		<string>http://hrsystem.framgia.vn/uploads/user/avatar/393/Nguyen_Bao_Quoc.jpg</string>
+		<key>name</key>
+		<string>Nguyen Bao Quoc</string>
+		<key>position</key>
+		<string>iOS Developer</string>
+		<key>note</key>
+		<string>This is me :D</string>
+	</dict>
+	<dict>
+		<key>image_info</key>
+		<string>http://hrsystem.framgia.vn/uploads/user/avatar/61/Vinhnhon_400x400.jpg</string>
+		<key>name</key>
+		<string>Nguyen The Vinh</string>
+		<key>position</key>
+		<string>iOS Developer</string>
+		<key>note</key>
+		<string>Tự : Nhạc Bất Vinh
+Sở thích :  đóng giả làm Quan Vân Trường
+Vốn dĩ sinh ra trên đỉnh Hoa Sơn, lớn lên nhờ năng lực mà vươn lên làm chưởng môn phái Hoa Sơn. Vì thời cuộc và xu thế mà Nhạc huynh đã luyện tịch tà kiếm phổ để đánh cặp với Quân Kun, trở thành hắc phong song sát đáng sợ nhất lịch sử </string>
+	</dict>
+	<dict>
+		<key>image_info</key>
+		<string>http://hrsystem.framgia.vn/uploads/user/avatar/54/Vu_Ngoc_Anh.jpg</string>
+		<key>name</key>
+		<string>Vu Ngoc Anh</string>
+		<key>position</key>
+		<string>iOS Developer</string>
+		<key>note</key>
+		<string>Tự : Sa liếp đại vương
+Gói gọn trong 3 chữ &quot;Đéo tin được&quot;, đó cũng là biệt danh mà anh em thân mến tặng cho NA (dance6)</string>
+	</dict>
+	<dict>
+		<key>image_info</key>
+		<string>http://hrsystem.framgia.vn/uploads/user/avatar/170/IMG_8292_avatar.jpg</string>
+		<key>name</key>
+		<string>Bui Duy Doanh</string>
+		<key>position</key>
+		<string>iOS Developer</string>
+		<key>note</key>
+		<string>Tự : Doanh cầm giáo
+Sở thích : Đâm đít đồng đội.
+Truyền thuyết : tương truyền khi đánh bắc dẹp đông, chỉ cần ai nắm được Doanh cầm giáo trong tay thì luôn là kẻ thống trị. Vốn không chịu ảnh hưởng của dòng chảy lịch sử, Doanh cầm giáo xuất hiện ở mọi nơi, mọi cuộc chiến và luôn là kẻ chiến thắng.
+Sức mạnh :  1
+Vũ khí : giáo
+Năng lực đặc biệt : luôn ở phe thắng cuộc </string>
+	</dict>
+	<dict>
+		<key>image_info</key>
+		<string>http://hrsystem.framgia.vn/uploads/user/avatar/141/Thanhlong_400x400.jpg</string>
+		<key>name</key>
+		<string>Vo Thanh Long</string>
+		<key>position</key>
+		<string>iOS Developer</string>
+		<key>note</key>
+		<string>Tự : Trương Dực Đức
+Sở thích : ?
+Câu nói huyền thoại : &quot;Dự án càng gấp thì em càng bình tĩnh&quot; (trích đoạn từ 1 lần fix bug 2 tiếng đề tìm ra lỗi từ một ký tự xuống dòng)
+Năng lực đặc biệt : Cãi trong mọi tình huống và luôn âm thầm sửa</string>
+	</dict>
+	<dict>
+		<key>image_info</key>
+		<string>http://hrsystem.framgia.vn/uploads/user/avatar/62/Do_Xuan_Duc.jpg</string>
+		<key>name</key>
+		<string>Do Xuan Duc</string>
+		<key>position</key>
+		<string>Group Leader
+Android Developer</string>
+		<key>note</key>
+		<string>Tự : Lữ bố aka Lỡ bú
+Năng lực : Cưỡi trên mình con Xích Thố huyền thoại, mọi vấn đề đều được giải quyết triệt để
+Sức mạnh : Gần max
+Note : Cũng là 1 thanh niên đéo tin được</string>
+	</dict>
+	<dict>
+		<key>image_info</key>
+		<string>http://hrsystem.framgia.vn/uploads/user/avatar/418/Tran_Thanh_Nghia.jpg</string>
+		<key>name</key>
+		<string>Tran Thanh Nghia</string>
+		<key>position</key>
+		<string>Android Developer</string>
+		<key>note</key>
+		<string>Tự : Xích Thố
+Năng lực đặc biệt : Kết hợp cùng em Trang QA trở thành bộ đôi khiến mọi huyền thoại phải chùn bước
+Câu nói huyền thoại : &quot;Em cảm ơn&quot; (khi được phong làm Xích Thố)</string>
+	</dict>
+	<dict>
+		<key>image_info</key>
+		<string>http://hrsystem.framgia.vn/uploads/user/avatar/16/Dotrungkien_400x400.jpg</string>
+		<key>name</key>
+		<string>Do Trung Kien</string>
+		<key>position</key>
+		<string>Group Leader
+BrSE</string>
+		<key>note</key>
+		<string>Tự : Gia Cát Dâm
+Năng lực đặc biệt : Lừa anh em</string>
+	</dict>
+</array>
+</plist>
